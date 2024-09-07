@@ -1,5 +1,9 @@
 # Welcome to your Expo app 👋
 
+https://www.nativewind.dev/v4/getting-started/expo-router get information about install tailwind in expo
+npx expo install react-native-pager-view" 
+get local ip adress use: ipconfig getifaddr en0 or en1
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
